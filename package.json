@@ -1,0 +1,28 @@
+{
+  "name": "lusca-wrapper",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hefangshi/lusca-wrapper.git"
+  },
+  "keywords": [
+    "lusca",
+    "wrapper",
+    "filter"
+  ],
+  "author": "FIS",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/hefangshi/lusca-wrapper/issues"
+  },
+  "homepage": "https://github.com/hefangshi/lusca-wrapper",
+  "dependencies": {
+    "debuglog": "1.0.1",
+    "lusca": "1.0.1"
+  }
+}
