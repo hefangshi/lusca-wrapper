@@ -23,6 +23,6 @@
   "homepage": "https://github.com/hefangshi/lusca-wrapper",
   "dependencies": {
     "debuglog": "1.0.1",
-    "lusca": "1.0.1"
+    "lusca": "1.4.1"
   }
 }
