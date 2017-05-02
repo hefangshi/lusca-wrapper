@@ -1,5 +1,7 @@
 # lusca-wrapper
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/hefangshi/lusca-wrapper.svg)](https://greenkeeper.io/)
+
 为lusca.csrf添加ignore功能，对特定URL关闭csrf功能
 
 ## 用法
